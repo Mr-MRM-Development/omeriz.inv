@@ -1,0 +1,149 @@
+* {
+
+    color: #fff;
+
+}
+
+
+
+body {
+
+    background: #151515;
+
+    margin: 0;
+
+}
+
+
+
+header {
+
+    background: #333;
+
+    text-align: center;
+
+    font-size: 45px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 12px;
+
+}
+
+
+
+nav {
+
+    background: #28d;
+
+    text-align: center;
+
+    font-size: 12px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 6px 12px;
+
+}
+
+
+
+nav a {
+
+    background: #28d;
+
+    font-size: 12px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 6px 12px;
+
+    transition: 0.3s;
+
+}
+
+
+
+nav a:hover {
+
+    background: #168;
+
+}
+
+
+
+
+
+table {
+
+    background: #252580;
+
+    border: solid 2px #adadff;
+
+    border-collapse: collapse;
+
+    width: 80%;
+
+    margin: 12px auto;
+
+}
+
+
+
+table td {
+
+    padding: 12px 12px;
+
+    background: #5555ff;
+
+    color: #000;
+
+}
+
+
+
+table th {
+
+    padding: 12px 12px;
+
+    background: #252580;
+
+}
+
+
+
+table td button {
+
+    border: none;
+
+    background: #3d8;
+
+    color: #fff;
+
+    width: 100%;
+
+    text-align: center;
+
+    padding: 6px;
+
+    border-radius: 12px;
+
+    transition: 0.3s;
+
+}
+
+
+
+table td button:hover {
+
+    background: #38d;
+
+}
+
+
+
+table td button a {
+
+    text-decoration: none;
+
+  }
