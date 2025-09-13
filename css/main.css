@@ -29,6 +29,7 @@ nav a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 6px 12px;
     transition: 0.3s;
+    text-decoration: none;
 }
 
 nav a:hover {
@@ -72,4 +73,11 @@ table td button:hover {
 
 table td button a {
     text-decoration: none;
+}
+
+p {
+    text-indent: 50px;
+    color: #fff;
+    padding: 3px 12px;
+    text-align: justify;
 }
