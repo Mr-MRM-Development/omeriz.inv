@@ -1,12 +1,9 @@
 let data = [
 
     // For OMERIZ Version
-<<<<<<< HEAD
     ["OMERIZ Bridge 1.1.2", "M. Rizqy Mubarok", "9 October 2025", "omeriz_version/OMERIZ Bridge 1.1.2 No Node Module.rar"],
-=======
     ["OMERIZ Cross 1.1.2", "M. Rizqy Mubarok", "8 October 2025", "omeriz_version/OMERIZ Cross 1.1.2 No Node Module.rar"],
     ["OMERIZ Desta 1.1.3", "M. Rizqy Mubarok", "20 September 2025", "omeriz_version/OMERIZ Desta 1.1.3 No Node Module.rar"],
->>>>>>> f71e229 (Re Setting)
     ["OMERIZ Desta 1.1.2", "M. Rizqy Mubarok", "17 September 2025", "omeriz_version/OMERIZ Desta 1.1.2 No Node Module.rar"],
     ["OMERIZ Desta 1.1.1", "M. Rizqy Mubarok", "16 September 2025", "omeriz_version/OMERIZ Desta 1.1.1 No Node Module.rar"],
     ["OMERIZ Desta 1.1.0", "M. Rizqy Mubarok", "7 September 2025", "omeriz_version/OMERIZ Desta 1.1.0 No Node Module.rar"],
