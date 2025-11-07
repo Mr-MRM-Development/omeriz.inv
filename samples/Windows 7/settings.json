@@ -1,0 +1,8 @@
+{
+    "width": 600,
+    "height": 400,
+    "minimizable": false,
+    "frame": false,
+    "fullscreenable": true,
+    "hiddenInMissionControl": false
+}

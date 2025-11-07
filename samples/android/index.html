@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Android Frame</title>
+
+    <!-- Link To CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Title Bar : -->
+    <header class="title-bar">
+        <div class="title-icon"></div>
+        <div class="title-text"></div>
+        <button class="title-button" title="Help" onclick="titlebarControls('close')">?</button>
+        <button class="title-button" title="Menu" onclick="titlebarControls('menu')">⁝</button>
+        <button class="title-button close" title="Close" onclick="titlebarControls('close')">⨉</button>
+    </header>
+
+    <!-- Content : -->
+    <div class="main-content">
+        
+    </div>
+
+    <!-- Root Script : -->
+    <script>
+        function titlebarControls(control) {
+            switch (control) {
+                case "close":
+                    window.close();
+                    break;
+            }
+        }
+        document.querySelector(".title-bar .title-text").textContent =  document.querySelector("head title").textContent;
+    </script>
+
+    <!-- External Scripting : -->
+    <script src="js/script.js"></script>
+</body>
+</html>

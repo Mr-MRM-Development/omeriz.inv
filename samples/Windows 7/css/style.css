@@ -1,0 +1,68 @@
+* {
+    user-select: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #456595, #5685a5, #8090d0, #adddff);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+.title-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    -webkit-app-region: drag;
+    padding: 0 8px;
+}
+
+.title-bar .title-text {
+    width: 100%;
+    margin: 0 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+.title-bar .title-button {
+    background: linear-gradient(to top, #4565a5, #254585, #4565a5);
+    border: solid 1px #353535;
+    padding: 1px 10px;
+    height: 100%;
+    color: #fff;
+    font-family: monospace;
+    border-top: none;
+    cursor: pointer;
+    -webkit-app-region: none;
+}
+
+.title-bar .title-button:hover {
+    background: #4565a5;
+}
+
+.title-bar .title-button:disabled {
+    background: linear-gradient(to top, #4565a5, #254585, #454545);
+    color: #858585;
+}
+
+.title-bar .title-button.close {
+    background: linear-gradient(to top, #f54545, #d51515, #f54545);
+    border-bottom-right-radius: 6px;
+}
+
+.title-bar .title-button.close:hover {
+    background: #f54545;
+}
+
+.title-bar .title-button.min {
+    border-bottom-left-radius: 6px;
+}
+
+.main-content {
+    height: 100%;
+    margin: 8px;
+    background: #adadad;
+}
