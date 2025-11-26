@@ -8,7 +8,7 @@ let data = [
     ["OMERIZ Desta 1.1.1", "M. Rizqy Mubarok", "16 September 2025", "omeriz_version/OMERIZ Desta 1.1.1 No Node Module.rar"],
     ["OMERIZ Desta 1.1.0", "M. Rizqy Mubarok", "7 September 2025", "omeriz_version/OMERIZ Desta 1.1.0 No Node Module.rar"],
     ["OMERIZ 1.1.1", "M. Rizqy Mubarok", "7 September 2025", "omeriz_version/OMERIZ 1.1.0 No Node Module.rar"],
-
+    
     ["OMERIZ beta 1.0.9", "M. Rizqy Mubarok", "25 July 2025", "omeriz_version/OMERIZ beta a-1.0.9 No Node Module.rar"],
     ["OMERIZ beta 1.0.8", "M. Rizqy Mubarok, M. Raka Falleh", "25 July 2025", "omeriz_version/OMERIZ beta a-1.0.8 No Node Module.rar"],
     ["OMERIZ beta 1.0.7", "M. Rizqy Mubarok", "25 July 2025", "omeriz_version/OMERIZ beta a-1.0.7 No Node Module.rar"],
